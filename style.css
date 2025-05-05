@@ -1,0 +1,33 @@
+/* Styling for Textbox */
+#prompt-input {
+    font-size: 18px;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+/* Styling for Slider */
+#steps-input {
+    border-radius: 12px;
+}
+
+/* Styling for the Button */
+#generate-btn {
+    border-radius: 12px;
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #ff69b4;
+    color: white;
+}
+
+/* Styling for the Image Display */
+#image-display {
+    border-radius: 15px;
+    border: 2px solid #ff69b4;
+}
+
+/* Styling for the status label */
+#status-label {
+    font-size: 16px;
+    text-align: center;
+    color: #777;
+}
