@@ -132,8 +132,6 @@ pytest test.py
 
 - Runs on **CPU** → Slower generation (~15–60s/image depending on steps).
 - Model path is **hardcoded** in `server.py` – update as needed.
-- No prompt safety filters (e.g., NSFW, toxicity).
-- Basic error handling (no retries, memory cleanup, etc.).
 
 ---
 
